@@ -1,0 +1,2 @@
+# entropia
+Examen candidato entropia
